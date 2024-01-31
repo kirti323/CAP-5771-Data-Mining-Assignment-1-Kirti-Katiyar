@@ -4,7 +4,7 @@ def question10_1():
     return answer
 
 def question10_2():
-    answer = False 
+    answer = True
     justify = 'The correlation between real values is within -1 and 1 only for linear relationships; otherwise, it may vary, indicating non-linear associations or no linear correlation.'
     return answer
 
@@ -14,7 +14,7 @@ def question10_3():
     return answer
 
 def question10_4():
-    answer = True 
+    answer = False 
     justify = 'In some cases, noise in the data can manifest as outliers, where random fluctuations result in extreme values that deviate significantly from the main pattern.'
     return answer
 
